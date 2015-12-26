@@ -1,2 +1,2 @@
 # datasciencecoursera
-Course project for "The data Scientist's Toolbox"
+Course project for "Getting and cleaning Data"
